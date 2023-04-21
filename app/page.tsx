@@ -19,7 +19,7 @@ export default function Home() {
         </div>
         <div>
           <h1 className="py-4 text-5xl font-bold tracking-tight text-center text-transparent bg-gradient-to-t bg-clip-text from-zinc-100/50 to-white sm:text-7xl">
-            Share Environment Variables Securely
+            Share Environment Variables Securely using Hexor
           </h1>
           <p className="mt-6 leading-5 text-zinc-600 sm:text-center">
             Your document is encrypted in your browser before being stored for a limited period of time and read
@@ -30,7 +30,7 @@ export default function Home() {
               href="/deploy"
               className="sm:w-1/2 sm:text-center inline-block space-x-2 rounded px-4 py-1.5 md:py-2 text-base font-semibold leading-7 text-white  ring-1 ring-zinc-600 hover:bg-white hover:text-zinc-900 duration-150 hover:ring-white hover:drop-shadow-cta"
             >
-              Deploy
+              Read Blog
             </Link>
             <Link
               href="/share"
