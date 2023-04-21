@@ -14,11 +14,11 @@ const navigation = [
   },
 
   {
-    name: "Deploy",
-    href: "/deploy",
+    name: "Blog",
+    href: "/Blog",
   },
   {
-    name: "GitHub",
+    name: "Documentation",
     href: "https://github.com/chronark/envshare",
     external: true,
   },
